@@ -1,3 +1,5 @@
+package CalculoGeometrico;
+
 import java.util.Scanner;
 
 public class CalculandoRetangulo {

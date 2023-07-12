@@ -1,3 +1,5 @@
+package CalculoGeometrico;
+
 public class Retangulo {
     public double largura;
 
