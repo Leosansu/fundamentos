@@ -1,3 +1,5 @@
+package ImpostoDeRenda;
+
 import java.util.Locale;//programa calcula imposto de renda sobre o que excede a R$ 2000
 import java.util.Scanner;
 
